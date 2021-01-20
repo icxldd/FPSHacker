@@ -24,3 +24,12 @@
 http://www.yxdown.com/SoftView/SoftView_136974.html
 ```
 
+
+
+## 编译运行
+
+1. vs2019
+2. 使用管理员权限打开vs
+3. 设置memoryHack项目为启动项
+4. F5运行
+
